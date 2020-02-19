@@ -1,0 +1,53 @@
+Food Type;Items;Size;Selling Price(R);Quantity;Stock price(R);Profit(R)
+Chips;Simba;125g;14;15;196;210
+Chips;Lays;125g;15;10;135;150
+Chips;Doritos;125g;16;12;176;192
+Chips;Nick Nacks;50g;1;40;39;40
+Chips;Bigga;50g;1;50;49;50
+Chips;Crack-A-Snacks;50g;1;50;49;50
+CoolDrink;Coke;2lt;18;22;378;396
+Cooldrink;Fanta Pine;2lt;17;25;408;425
+Cooldrink;Fanta Orange;2lt;16;23;352;368
+Cooldrink;Granadilla Twist;2lt;20;20;380;400
+Cooldrink;Lemon Twist;2lt;18;25;432;450
+Cooldrinks;Shweps;2lt;20;25;480;500
+Cooldrink;Spar-Leta;2lt;18;25;432;450
+Chocolate;Cadbury;55g;10;25;240;250
+Chocolate;PS;55g;12;15;168;180
+Chocolate;Lunch Bar;55g;9;20;171;180
+Chocolate;TV Bar;55g;9;20;171;180
+Chocolate;Tex;55g;10;25;240;250
+Chocolate;Kit-Kat;55g;8;30;232;240
+Chocolate;Lindlt;55g;12;25;288;300
+Pie;Pepper Steak;100g;20;20;380;400
+Pie;Chicken and mashroom;100g;22;35;748;770
+Pie;Steak and kidney;100g;21;30;609;630
+Pie;Chicken;100g;19;30;551;570
+Fruit;Pear;1kg;2;70;138;140
+Fruit;Apple;1kg;3;80;237;240
+Fruit;Orange;1kg;3;60;177;180
+Fruit;Kiwi;1kg;3;65;192;195
+Fruit;Mango;1kg;5;75;370;375
+Fruit;Banana;1kg;2;85;168;170
+Fruit;Paw-paw;1kg;4;50;196;200
+Fruit;Pine-apple;1kg;7;45;308;315
+Cupcakes;Vanilla;70g;8;35;272;280
+Cupcakes;Chocolate;70g;7;48;329;336
+Cupcakes;Bran;70g;6;50;294;300
+Cupcakes;Cappucino;70g;7;25;168;175
+Veg;Spinach;1kg;10;25;240;250
+Veg;carrots;1kg;6;23;132;138
+Veg;Potatoes;1kg;7;27;182;189
+Veg;Beans;1kg;8;30;232;240
+Veg;Corn;1kg;9;40;351;360
+Veg;Beetroot;1kg;12;45;528;540
+Veg;Butternut;1kg;15;40;585;600
+Juices;Fusion;700ml;8;30;232;240
+Juices;Oros;750ml;17;25;408;425
+Juices;Halls;1lt;17;34;561;578
+Juices;Appletiser;500ml;23;30;667;690
+Juices;Ceres;440ml;20;40;780;800
+Juices;Liqior-Fruit;1lt;20;35;680;700
+Juices;Crush;750ml;24;30;696;720
+-;-;-;580;-;16 427;17 007
+-;-;-;-;-;-;580
